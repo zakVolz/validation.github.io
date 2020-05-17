@@ -1,4 +1,4 @@
-# (https://github.com/zakVolz/validation.github.io, 'Страница валидации')
+# https://github.com/zakVolz/validation.github.io
 ***
 ## validation.github.io
 ***
