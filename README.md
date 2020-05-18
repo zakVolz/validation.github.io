@@ -1,4 +1,4 @@
-# https://github.com/zakVolz/validation.github.io
+# https://zakvolz.github.io/validation.github.io/
 ***
 ## validation.github.io
 ***
